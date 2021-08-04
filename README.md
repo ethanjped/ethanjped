@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning software development in C++, and have experience with development in C# or Java as well as experience with data structures. 
 - 📫 How to reach me: send me an email at ethan.pedersen@utah.edu 
 
-- https://dev.to/ethanjped
 - https://twitter.com/pedersen_ethan
 
