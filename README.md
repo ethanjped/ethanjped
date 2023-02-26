@@ -1,6 +1,6 @@
 👋 Hi, I’m @ethanjped
 
-I want to design and build software solutions to solve problems. In my present studies I am most interested in both learning web frameworks like React and Sveltekit, Android app development, and HCI research. 
+I want to design and build software solutions to solve problems. In my present studies I am most interested in learning Sveltekit, Android app development, and .NET applications.  
 I currently work professionally in web development using .NET ASP Web Forms and MVC, creating E-commerce sites and developing custom CRM software.
 
 
